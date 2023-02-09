@@ -1,1 +1,1 @@
-Tkes first two slots
+Takes first two slots
